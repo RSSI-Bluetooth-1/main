@@ -19,6 +19,7 @@ Procedure of data gathering we used:
 
 
 
+Spring 2023 DVA435/CDT406 
 Data gathering days:
 Day 1 - fingerprinting (9 hrs)
 Day 2 - three beacons with 100 location combinations (5 hrs)
